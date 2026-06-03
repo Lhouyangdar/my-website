@@ -1,0 +1,11 @@
+---
+title: |
+listing:
+  contents: posts
+  sort: "date desc"
+  type: grid
+  categories: true
+  grid-columns: 2
+  image-height: 180px
+page-layout: full
+---

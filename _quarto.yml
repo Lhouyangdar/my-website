@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Lhouyangdar Khulpu"
+  navbar:
+    pinned: true
+    left:
+      - href: about.qmd
+        text: About me
+      - href: blog.qmd
+        text: Blog
+
+format:
+  html:
+    theme: flatly
+    toc: false
