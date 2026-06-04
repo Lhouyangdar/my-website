@@ -1,12 +1,12 @@
 ---
 title: "Interaction with the Hon'ble President of India: A personal reflection"
-description: “I was privileged to be invited at the interaction programme and it reminded me of two important life lessons; to always know our Identity, and that our success must be beyond personal gain.”
+description: "I was privileged to be invited at the interaction programme and it reminded me of two important life lessons; to always know our Identity, and that our success must be beyond personal gain."
 date: "2026-06-03"
-image: /images/president.JP
+image: ../../images/president.JPG
 page-layout: article
 ---
 
-![A moment with the Hon’ble President of India, Smt. Droupadi Murmu, and the Union Minister of Tribal Affairs, Shri Jual Oram, during the Birsa Lives in New Bharat Week celebration on 02-06-2026.](/images/president.JPG)
+![A moment with the Hon’ble President of India, Smt. Droupadi Murmu, and the Union Minister of Tribal Affairs, Shri Jual Oram, during the Birsa Lives in New Bharat Week celebration on 02-06-2026.](../../images/president.JPG)
 
 Unexpected moments happen in life, and the chance to interact with the Hon’ble President of India is one of those that surprises me. I was privileged to be invited and to be part of the interaction programme—an experience I will cherish forever. Listening to the President’s address compelled me to reflect back on my life and ponder on who I wanted to be, who I have become today, and what responsibilities I now carry.
 
