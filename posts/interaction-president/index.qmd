@@ -6,9 +6,9 @@ image: images/president.JPG
 page-layout: article
 ---
 
-![A moment with the Hon’ble President of India, Smt. Droupadi Murmu, and the Union Minister of Tribal Affairs, Shri Jual Oram, during the Birsa Lives in New Bharat Week celebration on 02-06-2026.](/images/president.JPG)
+![A moment with the Hon’ble President of India, Smt. Droupadi Murmu, and the Union Minister of Tribal Affairs, Shri Jual Oram, during the Birsa Lives in New Bharat Week celebration on 02-06-2026.](../../images/president.JPG)
 
-Unexpected moments happen in life, and the chance to interact with the Hon’ble President of India is one of those that surprises me. I was privileged to be invited and to be part of the interaction programme—an experience I will cherish forever. Listening to the President’s address compelled me to reflect back on my life and ponder on who I wanted to be, who I have become today, and what responsibilities I now carry.
+Unexpected moments happen in life, and the chance to interact with the Hon’ble President of India is one of those that surprised me. I was privileged to be invited and to be part of the interaction programme—an experience I will cherish forever. Listening to the President’s address compelled me to reflect back on my life and ponder on who I wanted to be, who I have become today, and what responsibilities I now carry.
 
 Now, as an awardee of the prestigious National Overseas Scholarship (NOS), I feel that even more responsibility rests on my shoulders. I do not take this as a burden, I consider it as an advantage to serve my community. The Hon’ble President was right when she said that [we should never forget where we come from]{.underline} and that [we should not treat our success as merely a personal achievement]{.underline}.
 
@@ -19,3 +19,32 @@ The real question is: how do we truly contribute? If we are sincerely motivated,
 Where we are today is important, but so is remembering where we come from. Just as trees stand tall because of their roots, we stand strong because of our identity. Without a sense of identity, we become lost—like a lone fishing boat at sea with no rope to guide it back to shore. I believe many of us would agree with this.
 
 To the Ministry of Tribal Affairs (MOTA) management team: if I am honest, I have never experienced such a smooth and thoughtful management. I did not face a single problem—from travel bookings to food and accommodation, everything was carefully taken care of. You have truly done an incredible job, and I am deeply grateful to your work and the opportunity.
+
+
+<button onclick="sharePost()" aria-label="Share this post" title="Share this post" style="font-size: 1.2rem; border: none; background: none; cursor: pointer;">
+  Share ↗
+</button>
+
+<script>
+async function sharePost() {
+  const data = {
+    title: document.title,
+    text: "Check out this post",
+    url: window.location.href
+  };
+
+  if (navigator.share) {
+    try {
+      await navigator.share(data);
+      return;
+    } catch (e) {}
+  }
+
+  try {
+    await navigator.clipboard.writeText(window.location.href);
+    alert("Link copied!");
+  } catch (e) {
+    prompt("Copy this link:", window.location.href);
+  }
+}
+</script>
