@@ -2,11 +2,11 @@
 title: "Interaction with the Hon'ble President of India."
 description: "A moment that I will cherish with pride as the first graduate in my family."
 date: "2026-06-03"
-image: "president.JPG"
+image: president.JPG
 page-layout: article
 ---
 
-![A moment with hon'ble President of India on 02-06-2026 at Rastrapati Bhavan, New Delhi.](president.JPG){fig-align="center" width="3000"}
+![A moment with Hon'ble President of India at Rashtrapati Bhavan, New Delhi.](president.JPG)
 
 It was an incredible honor to have the opportunity to interact with the Hon'ble President of India. This marks a deeply proud milestone that I will cherish forever, particularly as the first graduate in my family to achieve this level of academic recognition.
 
