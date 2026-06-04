@@ -5,7 +5,7 @@ project:
 website:
   title: "Home"
   navbar:
-    pinned: true
+    pinned: false
     left:
       - href: blog.qmd
         text: Blog
