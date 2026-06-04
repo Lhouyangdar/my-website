@@ -2,7 +2,7 @@
 title: "Interaction with the Hon'ble President of India: A personal reflection"
 description: "I was privileged to be invited at the interaction programme and it reminded me of two important life lessons; to always know our Identity, and that our success must be beyond personal gain."
 date: "2026-06-03"
-image: /images/president.JPG
+image: images/president.JPG
 page-layout: article
 ---
 
