@@ -4,7 +4,6 @@ description: "A moment that I will cherish with pride as the first graduate in m
 date: "2026-06-03"
 image: "president.jpg"
 page-layout: article
-navbar: false
 ---
 
 ![A moment with hon'ble President of India on 02-06-2026 at Rastrapati Bhavan, New Delhi.](president.JPG){fig-align="center" width="3000"}

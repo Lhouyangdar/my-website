@@ -3,16 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "Lhouyangdar Khulpu"
+  title: "Home"
   navbar:
     pinned: true
     left:
-      - href: about.qmd
-        text: About me
       - href: blog.qmd
         text: Blog
 
 format:
   html:
-    theme: flatly
+    theme: litera
     toc: false
