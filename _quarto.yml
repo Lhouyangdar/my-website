@@ -4,8 +4,9 @@ project:
 
 website:
   title: "Home"
+  site-url: "https://lhouyangdar.github.io/my-website"
   navbar:
-    pinned: false
+    pinned: true
     left:
       - href: blog.qmd
         text: Blog
@@ -13,5 +14,4 @@ website:
 format:
   html:
     theme: litera
-    css: styles.css
     toc: false
