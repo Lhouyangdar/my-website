@@ -2,7 +2,7 @@
 title: "Interaction with the Hon'ble President of India."
 description: "A moment that I will cherish with pride as the first graduate in my family."
 date: "2026-06-03"
-image: "president.jpg"
+image: "president.JPG"
 page-layout: article
 ---
 
